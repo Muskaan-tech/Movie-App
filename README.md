@@ -27,6 +27,8 @@ A beautiful and modern mobile app to browse popular movies, view details, and st
       <img src="./assets/Screenshots/Homepagee.jpeg" width="300"/>
     </td>
   </tr>
+</table>
+<table>
   <tr>
     <td align="center">
       <strong>🔍 Search Screen</strong><br>
@@ -37,6 +39,8 @@ A beautiful and modern mobile app to browse popular movies, view details, and st
       <img src="./assets/Screenshots/Select.jpeg" width="300"/>
     </td>
   </tr>
+</table>
+<table>
   <tr>
     <td align="center" colspan="2">
       <strong>🧾 Explore Details Screen</strong><br>
