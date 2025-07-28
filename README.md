@@ -2,7 +2,6 @@
 
 A beautiful and modern mobile app to browse popular movies, view details, and stream trailers — built using **React Native**, **Expo**, **NativeWind**, and **TMDB API**.
 
-![Movie App Banner](./assets/screenshots/banner.png)
 
 ---
 
@@ -19,19 +18,19 @@ A beautiful and modern mobile app to browse popular movies, view details, and st
 ## 📸 Screenshots
 
 ### 🏠 Home Screen
-![Home](./assets/screenshots/Homepage.jpeg)
+![Home](./assets/Screenshots/Homepage.jpeg)
 
 ### 🏠 Alternate Home Screen
-![Home2](./assets/screenshots/Homepagee.jpeg)
+![Home2](./assets/Screenshots/Homepagee.jpeg)
 
 ### 🔍 Search Screen
-![Search](./assets/screenshots/Search.jpeg)
+![Search](./assets/Screenshots/Search.jpeg)
 
 ### 🎬 Select Screen
-![Select](./assets/screenshots/Select.jpeg)
+![Select](./assets/Screenshots/Select.jpeg)
 
 ### 🧾 Explore Details Screen
-![ExploreDetails](./assets/screenshots/explore.jpeg)
+![ExploreDetails](./assets/Screenshots/explore.jpeg)
 
 
 
