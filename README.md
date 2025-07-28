@@ -18,11 +18,11 @@ A beautiful and modern mobile app to browse popular movies, view details, and st
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" style="padding: 10px;">
       <strong>🏠 Home Screen</strong><br>
       <img src="./assets/Screenshots/Homepage.jpeg" width="300"/>
     </td>
-    <td align="center">
+   <td align="center" style="padding: 10px;">
       <strong>🏠 Alternate Home Screen</strong><br>
       <img src="./assets/Screenshots/Homepagee.jpeg" width="300"/>
     </td>
@@ -30,11 +30,11 @@ A beautiful and modern mobile app to browse popular movies, view details, and st
 </table>
 <table>
   <tr>
-    <td align="center">
+   <td align="center" style="padding: 10px;">
       <strong>🔍 Search Screen</strong><br>
       <img src="./assets/Screenshots/Search.jpeg" width="300"/>
     </td>
-    <td align="center">
+    <td align="center" style="padding: 10px;">
       <strong>🎬 Select Screen</strong><br>
       <img src="./assets/Screenshots/Select.jpeg" width="300"/>
     </td>
