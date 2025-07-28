@@ -14,25 +14,36 @@ A beautiful and modern mobile app to browse popular movies, view details, and st
 - 🔁 Scrollable and responsive layouts
 
 ---
-
 ## 📸 Screenshots
 
-### 🏠 Home Screen
-![Home](./assets/Screenshots/Homepage.jpeg)
-
-### 🏠 Alternate Home Screen
-![Home2](./assets/Screenshots/Homepagee.jpeg)
-
-### 🔍 Search Screen
-![Search](./assets/Screenshots/Search.jpeg)
-
-### 🎬 Select Screen
-![Select](./assets/Screenshots/Select.jpeg)
-
-### 🧾 Explore Details Screen
-![ExploreDetails](./assets/Screenshots/explore.jpeg)
-
-
+<table>
+  <tr>
+    <td align="center">
+      <strong>🏠 Home Screen</strong><br>
+      <img src="./assets/Screenshots/Homepage.jpeg" width="300"/>
+    </td>
+    <td align="center">
+      <strong>🏠 Alternate Home Screen</strong><br>
+      <img src="./assets/Screenshots/Homepagee.jpeg" width="300"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>🔍 Search Screen</strong><br>
+      <img src="./assets/Screenshots/Search.jpeg" width="300"/>
+    </td>
+    <td align="center">
+      <strong>🎬 Select Screen</strong><br>
+      <img src="./assets/Screenshots/Select.jpeg" width="300"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <strong>🧾 Explore Details Screen</strong><br>
+      <img src="./assets/Screenshots/explore.jpeg" width="300"/>
+    </td>
+  </tr>
+</table>
 
 
 ## 🚀 Getting Started
