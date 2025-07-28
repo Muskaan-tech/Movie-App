@@ -1,50 +1,93 @@
-# Welcome to your Expo app 👋
+# 🎬 React Native Movie App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A beautiful and modern mobile app to browse popular movies, view details, and stream trailers — built using **React Native**, **Expo**, **NativeWind**, and **TMDB API**.
 
-## Get started
+![Movie App Banner](./assets/screenshots/banner.png)
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+## ✨ Features
 
-2. Start the app
+- 🔍 Browse popular movies from [TMDB](https://www.themoviedb.org/)
+- 🎥 View movie trailers and posters
+- 📄 Get detailed info like genres, rating, budget, and more
+- 🎨 Dark-themed UI using Tailwind (via NativeWind)
+- 🔁 Scrollable and responsive layouts
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## 📸 Screenshots
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+### 🏠 Home Screen
+![Home](./assets/screenshots/Homepage.jpeg)
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### 🏠 Alternate Home Screen
+![Home2](./assets/screenshots/Homepagee.jpeg)
 
-## Get a fresh project
+### 🔍 Search Screen
+![Search](./assets/screenshots/Search.jpeg)
 
-When you're ready, run:
+### 🎬 Select Screen
+![Select](./assets/screenshots/Select.jpeg)
+
+### 🧾 Explore Details Screen
+![ExploreDetails](./assets/screenshots/explore.jpeg)
+
+
+
+
+## 🚀 Getting Started
+
+### 📦 Prerequisites
+
+- Node.js ≥ 16.x
+- Expo CLI (`npm install -g expo-cli`)
+- TMDB API Key (Get from [here](https://www.themoviedb.org/documentation/api))
+
+---
+
+### 🛠 Installation
 
 ```bash
-npm run reset-project
-```
+git clone https://github.com/yourusername/react-native-movie-app.git
+cd react-native-movie-app
+npm install
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+🧪 Running the App
+bash
+Copy
+Edit
+npm start
+Then scan the QR code using the Expo Go app on your phone.
 
-## Learn more
+⚙️ Project Structure
+bash
+Copy
+Edit
+├── app/                  # Main screens (e.g. Details.tsx)
+├── components/           # Reusable UI components
+├── constants/            # Static assets and icons
+├── services/             # API calls and data fetching
+├── tailwind.config.js    # Tailwind setup for NativeWind
+├── assets/               # Images and screenshot assets
+└── App.tsx               # Entry point
 
-To learn more about developing your project with Expo, look at the following resources:
+🔧 Configuration
+Update your .env or API config in /services/api.ts with your TMDB key:
+ts
+Copy
+Edit
+📦 Tech Stack
+⚛️ React Native + Expo
+🎨 Tailwind CSS via NativeWind
+🔌 TMDB API
+🪝 React Hooks & Expo Router
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+🙌 Acknowledgements
+TMDB API
+NativeWind
+React Native
+Expo
 
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
